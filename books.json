@@ -1,0 +1,14 @@
+{
+    "112233": {
+        "title": "Song of ice and fire",
+        "author": "Goerge R.R Martin",
+        "isbn": "112233",
+        "available": false
+    },
+    "123456": {
+        "title": "Dairy of a wimpy kid",
+        "author": "Jeff Kinney",
+        "isbn": "123456",
+        "available": true
+    }
+}
