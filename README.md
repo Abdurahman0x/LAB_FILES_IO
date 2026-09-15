@@ -9,19 +9,6 @@
 - Then return again to ther first question and ask again, you coninue this untill the user types in "exit" , then you exit the program. and print to the user "thank you for using the To-Do program, come back again soon"
 
 
-# Bonus
-
-# LAB_MODULES_PACKAGES
-
-## Create a new module and name it "dateOP.py" ,  dateOP has the following:
-- A function that when called prints the current date.
-
-## Create a new module "main.py" , and do the following:
-- import dateOP
-- call the function that print the current date
-
-### hint : You should import the date class from the datetime module.
-
 ------------------------
 
 ## Library (BONUS)
